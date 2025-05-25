@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+div{
+    padding-left: 500px;
+    padding-right: 50px;
+    padding-top:50px;
+}
+.img{
+    border:5px solid white;
+    width: 500px;
+}
+h1{
+    color:white;
+    font-family: Libre Baskerville;
+    padding-left:155px;
+}
+p{
+    color:white;
+    font-family: Libre Baskerville;
+    padding-left:75px;
+}
